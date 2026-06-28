@@ -1,0 +1,14 @@
+{
+  "name": "alpha-ui",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm -w apps/demo run dev",
+    "build": "npm -w packages/ui run build",
+    "test": "npm -w packages/ui run test"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "alpha-ui-demo",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@alpha/ui": "*",
+    "@monaco-editor/react": "^4.6.0",
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.17.6",
+    "chart.js": "^4.4.3",
+    "react-chartjs-2": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "three": "^0.164.1",
+    "styled-components": "^6.1.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  }
+}
