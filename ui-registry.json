@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "name": "ThemeGlobals",
+      "category": "general",
+      "description": "Existing public export ThemeGlobals",
+      "keywords": [
+        "theme",
+        "globals"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "themeTokens",
+      "category": "general",
+      "description": "Existing public export themeTokens",
+      "keywords": [
+        "theme",
+        "tokens"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "lightThemeTokens",
+      "category": "general",
+      "description": "Existing public export lightThemeTokens",
+      "keywords": [
+        "light",
+        "theme",
+        "tokens"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "CollapsibleCard",
+      "category": "general",
+      "description": "Existing public export CollapsibleCard",
+      "keywords": [
+        "collapsible",
+        "card"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "Modal",
+      "category": "general",
+      "description": "Existing public export Modal",
+      "keywords": [
+        "modal"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizableTable",
+      "category": "general",
+      "description": "Existing public export ResizableTable",
+      "keywords": [
+        "resizable",
+        "table"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "StandardTable",
+      "category": "general",
+      "description": "Existing public export StandardTable",
+      "keywords": [
+        "standard",
+        "table"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "FileBrowser",
+      "category": "general",
+      "description": "Existing public export FileBrowser",
+      "keywords": [
+        "file",
+        "browser"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ThreeViewer",
+      "category": "3d",
+      "description": "Existing public export ThreeViewer",
+      "keywords": [
+        "three",
+        "viewer"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ThreeViewport",
+      "category": "3d",
+      "description": "Existing public export ThreeViewport",
+      "keywords": [
+        "three",
+        "viewport"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ThreeModel",
+      "category": "3d",
+      "description": "Existing public export ThreeModel",
+      "keywords": [
+        "three",
+        "model"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "SplitPanel",
+      "category": "layout",
+      "description": "Existing public export SplitPanel",
+      "keywords": [
+        "split",
+        "panel"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerStack",
+      "category": "layout",
+      "description": "Existing public export ResizerStack",
+      "keywords": [
+        "resizer",
+        "stack"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerRow",
+      "category": "layout",
+      "description": "Existing public export ResizerRow",
+      "keywords": [
+        "resizer",
+        "row"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerColumn",
+      "category": "layout",
+      "description": "Existing public export ResizerColumn",
+      "keywords": [
+        "resizer",
+        "column"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerPane",
+      "category": "layout",
+      "description": "Existing public export ResizerPane",
+      "keywords": [
+        "resizer",
+        "pane"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerHandleVertical",
+      "category": "layout",
+      "description": "Existing public export ResizerHandleVertical",
+      "keywords": [
+        "resizer",
+        "handle",
+        "vertical"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "ResizerHandleHorizontal",
+      "category": "layout",
+      "description": "Existing public export ResizerHandleHorizontal",
+      "keywords": [
+        "resizer",
+        "handle",
+        "horizontal"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "WidgetGrid",
+      "category": "general",
+      "description": "Existing public export WidgetGrid",
+      "keywords": [
+        "widget",
+        "grid"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "WidgetFrame",
+      "category": "general",
+      "description": "Existing public export WidgetFrame",
+      "keywords": [
+        "widget",
+        "frame"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "* ./components/generalStyles",
+      "category": "general",
+      "description": "Legacy wildcard export from ./components/generalStyles",
+      "keywords": [
+        "*",
+        "./components/general",
+        "styles"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    },
+    {
+      "name": "* ./components/alphafoamControls",
+      "category": "general",
+      "description": "Legacy wildcard export from ./components/alphafoamControls",
+      "keywords": [
+        "*",
+        "./components/alphafoam",
+        "controls"
+      ],
+      "import": "@alpha/ui",
+      "status": "legacy"
+    }
+  ]
+}
