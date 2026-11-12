@@ -9,6 +9,11 @@
   "scripts": {
     "dev": "npm -w apps/demo run dev",
     "build": "npm -w packages/ui run build",
-    "test": "npm -w packages/ui run test"
+    "test": "npm -w packages/ui run test",
+    "ui:list": "node scripts/ui-governance.mjs list",
+    "ui:find": "node scripts/ui-governance.mjs find",
+    "ui:inspect": "node scripts/ui-governance.mjs inspect",
+    "ui:create": "node scripts/ui-governance.mjs create",
+    "ui:validate": "node scripts/ui-governance.mjs validate"
   }
 }
